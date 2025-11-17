@@ -118,5 +118,3 @@ http://localhost:8000/docs
 This project is licensed under **Apache-2.0 License**. See LICENSE for details.
 
 ---
-
-*Prepared for Sefineh Tesfa — Senior AI Agent Developer portfolio & enterprise project showcase.*
